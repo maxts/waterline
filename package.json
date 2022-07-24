@@ -6,7 +6,7 @@
   "contributors": [
     {
       "name": "seerepo",
-      "github": "https://github.com/balderdashy/waterline/graphs/contributors"
+      "github": "https://github.com/maxts/waterline/graphs/contributors"
     }
   ],
   "dependencies": {
@@ -37,7 +37,7 @@
     "sails",
     "sails.js"
   ],
-  "repository": "git://github.com/balderdashy/waterline.git",
+  "repository": "git://github.com/maxts/waterline.git",
   "main": "./lib/waterline",
   "scripts": {
     "test": "nodever=`node -e \"console.log('\\`node -v\\`'[1]);\"` && if [ $nodever != \"0\" ]; then npm run lint; fi && npm run custom-tests",

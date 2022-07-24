@@ -1,7 +1,7 @@
 {
   "name": "@maxts/waterline",
   "description": "An ORM for Node.js and the Sails framework",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "homepage": "http://waterlinejs.org",
   "contributors": [
     {
@@ -19,7 +19,7 @@
     "parley": "^3.3.2",
     "rttc": "^10.0.0-1",
     "waterline-schema": "^1.0.0-20",
-    "@maxts/waterline-utils": "^1.4.4"
+    "@maxts/waterline-utils": "^1.4.5"
   },
   "devDependencies": {
     "eslint": "^8.20.0",

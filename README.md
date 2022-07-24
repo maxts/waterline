@@ -1,6 +1,6 @@
 # [<img title="waterline-logo" src="http://i.imgur.com/3Xqh6Mz.png" width="610px" alt="Waterline logo"/>](http://waterlinejs.org)
 
-[![Master Branch Build Status](https://travis-ci.org/maxts/waterline.svg?branch=master)](https://travis-ci.org/maxts/waterline)
+[![Master Branch Build Status](https://app.travis-ci.com/maxts/waterline.svg?branch=master)](https://app.travis-ci.com/maxts/waterline)
 [![Master Branch Build Status (Windows)](https://ci.appveyor.com/api/projects/status/tdu70ax32iymvyq3?svg=true)](https://ci.appveyor.com/project/mikermcneil/waterline)
 [![StackOverflow (waterline)](https://img.shields.io/badge/stackoverflow-waterline-blue.svg)]( http://stackoverflow.com/questions/tagged/waterline)
 [![StackOverflow (sails)](https://img.shields.io/badge/stackoverflow-sails.js-blue.svg)]( http://stackoverflow.com/questions/tagged/sails.js)

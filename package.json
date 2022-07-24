@@ -1,7 +1,7 @@
 {
-  "name": "waterline",
+  "name": "@maxts/waterline",
   "description": "An ORM for Node.js and the Sails framework",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "homepage": "http://waterlinejs.org",
   "contributors": [
     {
@@ -11,19 +11,19 @@
   ],
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "anchor": "^1.2.0",
-    "async": "2.0.1",
+    "@maxts/anchor": "^1.4.1",
+    "async": "^3.2.4",
     "encrypted-attr": "1.0.6",
     "flaverr": "^1.9.2",
     "lodash.issafeinteger": "4.0.4",
     "parley": "^3.3.2",
     "rttc": "^10.0.0-1",
     "waterline-schema": "^1.0.0-20",
-    "waterline-utils": "^1.3.7"
+    "@maxts/waterline-utils": "^1.4.4"
   },
   "devDependencies": {
-    "eslint": "4.11.0",
-    "mocha": "3.0.2"
+    "eslint": "^8.20.0",
+    "mocha": "^10.0.0"
   },
   "keywords": [
     "mvc",

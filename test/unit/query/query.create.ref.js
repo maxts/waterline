@@ -23,7 +23,7 @@ describe('Collection Query ::', function() {
           }
         };
 
-        var myBlob = new Buffer([1,2,3,4,5]);
+        var myBlob = Buffer.from([1,2,3,4,5]);
         var waterline = new Waterline();
         waterline.registerModel(Waterline.Model.extend(_.extend({}, modelDef)));
 

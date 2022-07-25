@@ -15,7 +15,7 @@ describe.skip('Alter Mode Recovery with buffer attributes', function () {
 
   // Create an adapter and set some existing data
   before(function () {
-    var buffer = new Buffer('test alter mode', 'utf8');
+    var buffer = Buffer.from('test alter mode', 'utf8');
 
     // Hold data to be used in tests
     persistentData = [{
